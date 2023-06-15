@@ -8,8 +8,4 @@ import java.util.List;
 public interface EmployeeRespository {
 
     ArrayList<Employee> getEmployees();
-    int employeeMaxSalary();
-    int employeeMinSalary();
-    int employeeSumSalary();
-    ArrayList<Employee> employeeHighSalary();
 }

@@ -21,34 +21,5 @@ public class EmployeeRepositoryImpl implements EmployeeRespository {
     public ArrayList<Employee> getEmployees() {
         return new ArrayList<>(EMPLOYEE_LIST);
     }
-
-    @Override
-    public int employeeMaxSalary() {
-        return EMPLOYEE_LIST.get(3).getSalary();
-    }
-
-    @Override
-    public int employeeMinSalary() {
-        return EMPLOYEE_LIST.get(4).getSalary();
-    }
-
-    @Override
-    public int employeeSumSalary() {
-        return calculateSum();
-    }
-
-    @Override
-    public ArrayList<Employee> employeeHighSalary() {
-        return new ArrayList<>(EMPLOYEE_LIST.subList(2,4));
-    }
-
-    public int calculateSum(){
-        int count = 0;
-        for(int i = 0; i<EMPLOYEE_LIST.size(); i++){
-            count += EMPLOYEE_LIST.get(i).getSalary();
-        }
-        return count;
-    }
-
 }
 
