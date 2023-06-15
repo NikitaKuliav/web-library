@@ -1,0 +1,118 @@
+GET http://localhost:8080/employee/high-salary
+
+<> 2023-06-15T185008.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2023-06-15T184949.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2023-06-15T184945.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2023-06-15T184939.200.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2023-06-14T195912.200.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2023-06-14T195757.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2023-06-14T195739.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2023-06-14T195736.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2023-06-14T195730.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2023-06-14T195609.200.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2023-06-13T193507.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2023-06-13T193503.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2023-06-13T193453.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2023-06-13T193439.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2023-06-07T202810.500.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2023-06-07T202801.500.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2023-06-07T202723.500.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2023-06-07T202714.500.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2023-05-29T174115.404.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+###
+
